@@ -1,0 +1,6 @@
+C:\Users\MONSTERMC\Desktop\New folder (3)\DLL\obj\Debug\DLL.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\DLL.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (3)\DLL\obj\Debug\DLL.exe
+C:\Users\MONSTERMC\Desktop\New folder (3)\DLL\obj\Debug\DLL.pdb
+C:\Users\MONSTERMC\Desktop\DLL.exe
+C:\Users\MONSTERMC\Desktop\DLL.pdb

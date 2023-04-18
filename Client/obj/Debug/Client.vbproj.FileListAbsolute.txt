@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\HVNC.FrmBuilder.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\HVNC.FrmMain.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\HVNC.FrmTransfer.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\HVNC.FrmMiner.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\HVNC.FrmVNC.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\Client.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\Client.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\Client\obj\Debug\Client.vbproj.AssemblyReference.cache

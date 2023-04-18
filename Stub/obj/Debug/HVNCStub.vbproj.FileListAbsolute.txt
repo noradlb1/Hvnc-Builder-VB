@@ -1,0 +1,6 @@
+C:\Users\MONSTERMC\Desktop\New folder (3)\Stub\obj\Debug\HVNCStub.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\Stub.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (3)\Stub\obj\Debug\Stub.exe
+C:\Users\MONSTERMC\Desktop\New folder (3)\Stub\obj\Debug\Stub.pdb
+C:\Users\MONSTERMC\Desktop\Stub.exe
+C:\Users\MONSTERMC\Desktop\Stub.pdb
